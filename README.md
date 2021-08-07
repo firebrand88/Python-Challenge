@@ -2,11 +2,11 @@
 
 This project is meant to exercise how to:
 
--Read .csv files
--Extract data from .csv files
--Run calculations on extracted data
--Use dictionaries and key value lookups
--Display results both in the terminal and a .txt output file
+  -Read .csv files
+  -Extract data from .csv files
+  -Run calculations on extracted data
+  -Use dictionaries and key value lookups
+  -Display results both in the terminal and a .txt output file
 
 
 ## PyBank
