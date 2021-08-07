@@ -57,6 +57,4 @@ with open(budget_csv,'r', encoding='utf-8') as csv_file:
         prev_val = int(row[1])
         count = count + 1
 
-
-
 main(Pydate, pnl, pnl_chg, big_inc, big_dec,mo_inc,mo_dec)
